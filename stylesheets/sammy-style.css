@@ -1,4 +1,9 @@
 /* Sammy's Stylesheet */
-body {background-color: rgb(236, 226, 213);}
-h1 {color: rgb(8, 105, 89)}
+body {background-color: white);}
+header{background-color:white); text-align: center; font-size: 60px; color: rgb(8, 105, 89)}
+h1{color:white; font-size: larger;}
+h2 {color: rgb(8, 105, 89); text-align:center; font-size:60px }
+pre{;text-align: center; padding-top: 50px; border-style:solid;}
 
+video{width: 100%;
+    height: auto;}
